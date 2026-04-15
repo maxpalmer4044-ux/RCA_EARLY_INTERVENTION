@@ -1,0 +1,29 @@
+{
+  "row_count": 287988,
+  "unique_point_count": 287988,
+  "duplicate_point_count": 0,
+  "label_distribution": {
+    "any_defect": {
+      "positive_rows": 102304,
+      "positive_rate": 0.3552370237648791
+    },
+    "pre_any_defect_50m": {
+      "positive_rows": 802,
+      "positive_rate": 0.0027848382571496032
+    },
+    "pre_any_defect_200m": {
+      "positive_rows": 2713,
+      "positive_rate": 0.009420531411031016
+    },
+    "pre_any_defect_500m": {
+      "positive_rows": 5422,
+      "positive_rate": 0.018827173354445323
+    }
+  },
+  "defect_events_dropped_due_to_zero_coverage": 3,
+  "defect_coverage_breakdown": {
+    "partial_coverage": 480,
+    "full_coverage": 134,
+    "zero_coverage": 3
+  }
+}
